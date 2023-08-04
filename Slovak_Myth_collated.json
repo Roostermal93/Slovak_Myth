@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "66a5eae6-b3a8-4788-8373-b70153f52c43",
+            "collectionId": "Slovak",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Myth/66a5eae6-b3a8-4788-8373-b70153f52c43/66a5eae6-b3a8-4788-8373-b70153f52c43_sk_Female.mp4"
+        },
+        {
+            "id": "429003ed-63a1-4a9c-9ebd-5dffddd172e6",
+            "collectionId": "Slovak",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Myth/429003ed-63a1-4a9c-9ebd-5dffddd172e6/429003ed-63a1-4a9c-9ebd-5dffddd172e6_sk_Female.mp4"
+        },
+        {
+            "id": "7678c382-ad67-4ecf-a8ac-af21a685874a",
+            "collectionId": "Slovak",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Myth/7678c382-ad67-4ecf-a8ac-af21a685874a/7678c382-ad67-4ecf-a8ac-af21a685874a_sk_Female.mp4"
+        }
+    ]
+}
